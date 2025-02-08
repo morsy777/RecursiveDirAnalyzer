@@ -1,17 +1,5 @@
 ﻿namespace RecursionMethods
 {
-    /*
-     * This statement [ new String('-', 3)) ] output = "---" mean a new instance of string class and we
-     * pass the char and count in the constructor to print the chars with the passed num.
-     * 
-     * This statement {new FileInfo(dirPath).Name} for taking an instance from FileInfo Class and (.Name) 
-     * is an instance variable in a FileInfo class used to print a short file name. but fileName will
-     * return the absolute file path.
-     * 
-     * To make method chaining like: Console.ReadLine().ToLower.Trim() , the sequence of this method must 
-     * have the same return type 
-     */ 
-
     internal class Program
     {
         static void Main()
@@ -40,9 +28,6 @@
                 PrintDirectoryFileSystemEntries(dirName, level + 1);
             } 
         }
-         
-
-
 
         // static long CalculateDirectorySize(string dirPath) :
         // The dir itself doesn't have a size, but we calculate the dir size upon its
