@@ -1,0 +1,15 @@
+F:\C#\C# Advanced\RecursionMethods\bin\Debug\net7.0\RecursionMethods.exe
+F:\C#\C# Advanced\RecursionMethods\bin\Debug\net7.0\RecursionMethods.deps.json
+F:\C#\C# Advanced\RecursionMethods\bin\Debug\net7.0\RecursionMethods.runtimeconfig.json
+F:\C#\C# Advanced\RecursionMethods\bin\Debug\net7.0\RecursionMethods.dll
+F:\C#\C# Advanced\RecursionMethods\bin\Debug\net7.0\RecursionMethods.pdb
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\RecursionMethods.csproj.AssemblyReference.cache
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\RecursionMethods.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\RecursionMethods.AssemblyInfoInputs.cache
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\RecursionMethods.AssemblyInfo.cs
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\RecursionMethods.csproj.CoreCompileInputs.cache
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\RecursionMethods.dll
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\refint\RecursionMethods.dll
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\RecursionMethods.pdb
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\RecursionMethods.genruntimeconfig.cache
+F:\C#\C# Advanced\RecursionMethods\obj\Debug\net7.0\ref\RecursionMethods.dll
